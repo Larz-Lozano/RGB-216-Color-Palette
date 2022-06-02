@@ -7,7 +7,7 @@ html, body {
   color: darkolivegreen;
   font-size:20px;
   text-align: center;
-  align: center;
+  float: center;
 }
 canvas {
   display: block;
