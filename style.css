@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: 1366px;
+  background-color: lemonchiffon;
+  font-family: Arial, Cambria;
+  color: darkolivegreen;
+  font-size:20px;
+  text-align: center;
+}
+canvas {
+  display: block;
+}
+
+h
